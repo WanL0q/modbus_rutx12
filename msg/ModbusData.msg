@@ -1,0 +1,15 @@
+Header header
+string modem_id_1
+float32 mobile_data_received_today_1
+float32 mobile_data_sent_today_1
+string network_type_1
+string operator_name_1
+int32 rssi_1
+string rssi_classification_1
+string modem_id_2
+float32 mobile_data_received_today_2
+float32 mobile_data_sent_today_2
+string network_type_2
+string operator_name_2
+int32 rssi_2
+string rssi_classification_2
