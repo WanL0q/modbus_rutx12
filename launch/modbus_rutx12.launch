@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="modbus_rutx12" type="modbus_rutx12.py" name="modbus_rutx12_node" output="screen">
+  </node>
+</launch>
