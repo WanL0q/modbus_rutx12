@@ -10,7 +10,7 @@ All you need to do is __log in to the router's WebUI__, go to __Services → Mod
 Open the Terminal app and enter these commands:
 ```sh
 sudo apt-get install ruby
-sudo apt-get install modbus-cli
+sudo gem install modbus-cli
 ```
 ### 2.2. Installing package
 ```sh
